@@ -1,4 +1,4 @@
 # Group-Project-face-recognation
-Group Project By Syed Aashir And Muneeb Haroon
+Final Group Project By Syed Aashir And Muneeb Haroon
 All I learned from this website
 https://www.utech-edu.com/
